@@ -47,7 +47,7 @@ This thrilling CTF is created & organized by **Rahulkrishnan Ravindran**.
 
 - 📧 Contact: [rahulkrishnanravindran@gmail.com](mailto:rahulkrishnanravindran@gmail.com)
 - 💼 LinkedIn: [rahulkrishnanravindran](https://www.linkedin.com/in/rahulkrishnan-ravindran-7892a7263/)
-- 🏳️ Flag: [flag{deepest_point}]
+- 🏳️ Flag: flag{deepest_point}
 
 ---
 
