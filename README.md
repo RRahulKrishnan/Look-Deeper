@@ -4,15 +4,15 @@
 
 Join us in an exciting journey to master cybersecurity skills while having fun! The **Xpl0it** CTF is designed for all skill levels, from beginners to experts. Test your knowledge, solve puzzles, and compete for amazing prizes!
 
-![CTF Poster](path/to/your/image.png)
+![CTF Poster](assets/samu.png)
 
 ---
 
 ## 🔍 Event Details
 
-- **Date:** [Insert Date]
-- **Time:** [Insert Time]
-- **Location:** [Insert Location or Online]
+- **Date:** [24 October 2024]
+- **Duration:** [24 hrs]
+- **Location:** [Agilisium Consulting, Chennai, Tamil Nadu]
 - **Registration:** [Link to Register]
 
 ---
@@ -29,10 +29,9 @@ Join us in an exciting journey to master cybersecurity skills while having fun! 
 
 ## 🥇 Prizes
 
-- **1st Place:** $500 + Certificate
-- **2nd Place:** $300 + Certificate
-- **3rd Place:** $200 + Certificate
-- **All Participants:** Certificate of Participation
+- **1st Place:** $500
+- **2nd Place:** $300
+- **3rd Place:** $200 
 
 ---
 
@@ -41,6 +40,8 @@ Join us in an exciting journey to master cybersecurity skills while having fun! 
 This CTF is organized by **Rahulkrishnan Ravindran**.
 
 📧 Contact: [rahulkrishnanravindran@gmail.com](mailto:rahulkrishnanravindran@gmail.com)
+📧 LinkedIn: [rahulkrishnanravindran](https://www.linkedin.com/in/rahulkrishnan-ravindran-7892a7263/)
+📧 Flag: []
 
 ---
 
